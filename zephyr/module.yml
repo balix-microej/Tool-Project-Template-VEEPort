@@ -1,0 +1,3 @@
+build:
+  kconfig: bsp/vee/Kconfig
+  cmake: bsp/vee
